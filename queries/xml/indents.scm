@@ -6,7 +6,12 @@
   (contentspec)
 ] @indent.align
 
-(ETag) @indent.branch
+[
+  (ETag)
+  ">"
+  "/>"
+] @indent.branch
+
 
 (doctypedecl) @indent.ignore
 
